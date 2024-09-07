@@ -1,4 +1,4 @@
-Um buscador simples e rápido para descobrir tudo sobre seus atletas brasileiros favoritos! 
+## Um buscador simples e rápido para descobrir tudo sobre seus atletas brasileiros favoritos! - Imersão Dev com Google Gemini
 
 ### **Como Funciona Essa Magia?**
 
